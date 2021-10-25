@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Drew 😊. Currently my interests include producing hard dance music, Nissan Z modifications, 3D modeling and printing, smart home technology, and type 1 diabetes management.
+I'm Drew. Outside of code, my interests include producing hard dance music, Nissan Z modifications, 3D modeling and printing, and smart home technology.
 
 <!--
 - 🔭 I’m currently working on ...
